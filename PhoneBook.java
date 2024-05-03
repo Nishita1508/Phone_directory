@@ -13,11 +13,11 @@ class PhoneBook
         System.out.println("|                                       |");
         System.out.println("|_______________________________________|");
         System.out.println();
-         contacts.insertAtFirst("Nishita", "9104188101");
-         contacts.insertAtFirst("Saloni","7572888919");
-         contacts.insertAtFirst("Yashvi", "7383864989");
-         contacts.insertAtFirst("Tanvi","9428951977");
-         contacts.insertAtFirst("Sangana","7984795244");             
+         contacts.insertAtFirst("Nishita", "6543210012");
+         contacts.insertAtFirst("Saloni","7111110000");
+         contacts.insertAtFirst("Yashvi", "800004000");
+         contacts.insertAtFirst("Tanvi","9067345612");
+         contacts.insertAtFirst("Sangana","7856234590");             
                        
         while(true)
         {
